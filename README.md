@@ -4,3 +4,6 @@ This repository contains implementation of various machine learning algorithms u
 
 - Linear Regression
 <img src='linear_regression/lr.png' width='60%'>
+
+- KMeans Clustering
+<img src='kmeans/kmeans.png' width='60%'>
